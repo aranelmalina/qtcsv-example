@@ -6,3 +6,5 @@ SUBDIRS += \
 
 DISTFILES += \
     CMakeLists.txt
+
+example.depends = qtcsv
